@@ -1,0 +1,22 @@
+{
+  "categories": {
+    "fruits": [
+      "APPLE",
+      "MANGO", 
+      "ORANGE",
+      "BANANA"
+    ],
+    "animals": [
+      "TIGER",
+      "LION",
+      "ELEPHANT",
+      "MONKEY"
+    ],
+    "countries": [
+      "KOREA",
+      "JAPAN",
+      "CHINA",
+      "AMERICA"
+    ]
+  }
+}
